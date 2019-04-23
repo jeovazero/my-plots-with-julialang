@@ -27,13 +27,22 @@ julia> include("plots/cardioid.jl")
 
 ### Screenshots
 
+
 <div align="center">
 
-<img width="320" src="./screenshots/cardioid.png" alt="cardioid" />
+![cardioid](screenshots/cardioid.png)
 
-<img width="320" src="./screenshots/rhodonea.png" alt="rhodonea" />
+</div>
 
-<img width="320" src="./screenshots/surface.png" alt="surface" />
+<div align="center">
+
+![rhodonea](screenshots/rhodonea.png)
+
+</div>
+
+<div align="center">
+
+![surface](screenshots/surface.png)
 
 </div>
 
